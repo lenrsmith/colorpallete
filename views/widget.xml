@@ -1,0 +1,18 @@
+<Alloy>
+	<View id="container">
+		<ScrollView id="colorpallete">
+			<ImageView class="swatch" id="black" name="black" onClick="pickColor" />
+			<ImageView class="swatch" id="gray" name="gray" onClick="pickColor" />			
+			<ImageView class="swatch" id="white" name="white" onClick="pickColor" />
+			<ImageView class="swatch" id="pink" name="pink" onClick="pickColor" />
+			<ImageView class="swatch" id="red" name="red" onClick="pickColor" />
+			<ImageView class="swatch" id="orange" name="orange" onClick="pickColor" />
+			<ImageView class="swatch" id="yellow" name="yellow" onClick="pickColor" />
+			<ImageView class="swatch" id="green" name="green" onClick="pickColor" />
+			<ImageView class="swatch" id="darkgreen" name="darkgreen" onClick="pickColor" />
+			<ImageView class="swatch" id="navy" name="navy" onClick="pickColor" />
+			<ImageView class="swatch" id="blue" name="blue" onClick="pickColor" />
+			<ImageView class="swatch" id="purple" name="purple" onClick="pickColor" />
+		</ScrollView>
+	</View>
+</Alloy>

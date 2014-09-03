@@ -1,0 +1,12 @@
+"#container": {
+	width: 40,
+},
+
+"#colorpallete": {
+	layout: 'vertical',
+},
+
+".swatch": {
+	height: 50,
+	width: 40
+}
